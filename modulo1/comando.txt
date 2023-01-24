@@ -4,3 +4,8 @@
 4- git remote add origin https://github.com/njulicamila/GIT.git
 5- git push --set-upstream origin main
 6- git push origin main
+
+Ejercicio2:
+7- git add comandos.txt
+8- git commit -m "add comandos utilizados"
+9-git push origin main
