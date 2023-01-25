@@ -1,0 +1,15 @@
+1- git stash
+2- git checkout master
+3- git add .
+4- git commit -m "git stash"
+5-git push origin master
+6-git chekout branch custom-navbar
+7-git stash apply
+8-git checkout main
+9-git status
+
+Ejercicio2
+
+10-git checkout master
+11-git merge front-react
+
