@@ -1,0 +1,4 @@
+git clone https://github.com/njulicamila/GIT.git
+git add comandos2.txt
+git commit -m "comandos modulo2"
+git push origin master
